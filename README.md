@@ -1,3 +1,0 @@
-# LeetCode
-My LeetCode Code.
-Updating...
